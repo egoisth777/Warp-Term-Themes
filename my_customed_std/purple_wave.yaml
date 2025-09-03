@@ -15,7 +15,7 @@ background_image:
   # the full path to the picture is: ~/.warp/themes/warp.jpg
   path: my_customed_std/purple_wave.jpg
   # the opacity value is required and can range from 0-100
-  opacity: 20
+  opacity: 10
 ############################################################### SEE ABOVE
 
 terminal_colors:
